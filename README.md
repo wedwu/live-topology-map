@@ -4,6 +4,8 @@ A React + TypeScript demo that turns a list of services into a live, auto-arrang
 cards for each service, curved leader lines showing who feeds whom, sparklines for load,
 and health changes streamed in over a WebSocket (or a built-in simulator).
 
+**[Live demo](https://wedwu.github.io/live-topology-map/)** (runs on the built-in simulator, no backend needed)
+
 ![Screenshot](docs/screenshot.png)
 
 ## Why this exists
