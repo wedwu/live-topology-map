@@ -80,6 +80,10 @@ tests/layout.test.ts
 - Group services by zone or team
 - Persist which card is selected in the URL
 
+## How it was built
+
+This is a clean-room public version of a dependency-map component I designed and built professionally (that code is private). I built this version with Claude as a pair programmer: I set the requirements, the layout approach and the architecture, and reviewed every change.
+
 ## License
 
 MIT
